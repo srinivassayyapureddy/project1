@@ -1,0 +1,12 @@
+
+Schema.org  tells to the  Search Engines Like Google, Yahoo, bing, Yandex    About The type  Of Content.
+For Example Say We Are Discussing About Movie Here We Can Able To Mention Type Movie Using Schema.org So That  search Engine Could Able To Understand That The Content We Are Giving Belongs To Movie
+
+Movie
+We Can tell To The Search Engine. This Is Related to Movie 
+Ex: <div itemscope itemtype="http://schema.org/Movie">
+  </div>
+We Can Describe Related types (music,actors,director,trailer etc) Between <div>
+
+Under 
+
